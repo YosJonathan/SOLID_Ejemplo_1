@@ -6,11 +6,6 @@ Este proyecto es una implementación simple de un sistema de notificaciones util
 
 Aplicar correctamente los principios SOLID para mejorar la mantenibilidad, escalabilidad y claridad del código a través de una estructura desacoplada y orientada a interfaces.
 
----
-
-
----
-
 ## 📐 Principios SOLID Aplicados
 
 ### 🔹 S – Single Responsibility Principle
